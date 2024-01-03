@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-t8h15%zq7y8d&5^x4ke6a&u5wz)p+q1$nnej!^a2tj%9ex#s51
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-liamedwards931-boutique-h5wd0xivw6.us2.codeanyapp.com'
+    '8000-liamedwards931-boutique-uyy14iefpt.us2.codeanyapp.com'
 ]
 
 
